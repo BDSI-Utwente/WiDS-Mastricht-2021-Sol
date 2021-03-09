@@ -1,3 +1,5 @@
+## Notes
+
 1.	State the idea: women in data science, the hackathon, and Kaggle
 2.	State the problem: predicting diabetes in ICU patients – classification problem
 3.	Introduce the data: some categorical and some (?). from blood tests
